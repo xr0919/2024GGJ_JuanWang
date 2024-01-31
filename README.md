@@ -2,7 +2,7 @@
 ## <p align="center" >卷juan王</p>  
 
 <p align="center">
-<a href="https://www.youtube.com/watch?v=cjguRjApdlY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://rahuldkjain.github.io/gh-profile-readme-generator/" height="30" width="40" /></a>
+<a href="https://www.bilibili.com/video/BV1L5411C7Q2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://rahuldkjain.github.io/gh-profile-readme-generator/" height="30" width="40" /></a>
 </p>
 <p align="center">:globe_with_meridians: <b>Homepage: </b> https://globalgamejam.org/games/2024/juanjuanwang-8</p>
 <p align="center">:video_game: <b>Online Demo: </b> https://play.unity.com/mg/other/webgl-e3t</p>
