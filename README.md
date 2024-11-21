@@ -5,7 +5,7 @@
 <a href="https://www.bilibili.com/video/BV1L5411C7Q2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://rahuldkjain.github.io/gh-profile-readme-generator/" height="30" width="40" /></a>
 </p>
 <p align="center">:globe_with_meridians: <b>Homepage: </b> https://globalgamejam.org/games/2024/juanjuanwang-8</p>
-<p align="center">:video_game: <b>Online Demo: </b> https://play.unity.com/mg/other/webgl-e3t</p>
+<p align="center">:video_game: <b>Online Demo: </b> https://play.unity.com/en/games/8bcf7fbe-a708-4b4a-84d2-55368038d606/juan</p>
 
 </br>
 <p align="center">:page_facing_up: <b>About:</b> 【2024global gamejam】参赛作品《卷juan王》</p>
